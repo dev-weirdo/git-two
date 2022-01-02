@@ -2,3 +2,7 @@ body{
     background-color: firebrick;
     color: white;
 }
+#brdr{
+    border: 1px dashed black;
+    padding: 5px;
+}
